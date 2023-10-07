@@ -1,3 +1,3 @@
 # Title
-Divide_and_conquer_quantum_algorithm_for_hybrid_de_novo_genome_assembly_of_short_and_long_reads
+Divide-and-conquer quantum algorithm for hybrid de novo genome assembly of short and long reads.
 ## Requirements
