@@ -4,7 +4,7 @@ Divide-and-conquer quantum algorithm for hybrid de novo genome assembly of short
 ## Requirements
 >Python
 ```python
-3.8.10
+3.9
 ```
 >Pypi
 
