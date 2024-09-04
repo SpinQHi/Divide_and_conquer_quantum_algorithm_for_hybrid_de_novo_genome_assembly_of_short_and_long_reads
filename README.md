@@ -10,7 +10,7 @@ Divide-and-conquer quantum algorithm for hybrid de novo genome assembly of short
 
 Windows 64 bit
 ```python
-pip install spinqkit-0.0.2-cp39-cp39-win_amd64.whl.whl
+pip install spinqkit-0.0.2-cp39-cp39-win_amd64.whl
 ```
 
 Linux x86_64
